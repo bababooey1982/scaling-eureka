@@ -1,0 +1,965 @@
+{
+  "paths": [
+    {
+      "_path": "Lib/site-packages/yapf-0.40.2.dist-info/AUTHORS",
+      "path_type": "hardlink",
+      "sha256": "1a3591f17972f8397d56b2aecd32cebd1a026cc372dbbf03c4ad92b9df4b702c",
+      "size_in_bytes": 307
+    },
+    {
+      "_path": "Lib/site-packages/yapf-0.40.2.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "Lib/site-packages/yapf-0.40.2.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "size_in_bytes": 11358
+    },
+    {
+      "_path": "Lib/site-packages/yapf-0.40.2.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "643041cb6d733f98517756bb142bc6d7c317c601a40323744b6fa3df7880bf30",
+      "size_in_bytes": 46639
+    },
+    {
+      "_path": "Lib/site-packages/yapf-0.40.2.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "4f7f0b82340738a636e56d44c4fee99b71b05f812e22a6a5ee7ca744b56d1c37",
+      "size_in_bytes": 12110
+    },
+    {
+      "_path": "Lib/site-packages/yapf-0.40.2.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "Lib/site-packages/yapf-0.40.2.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "c903798389a0e00c9b4639208bef72cb889010589b1909a5cfbf0f8a4e4eafe0",
+      "size_in_bytes": 92
+    },
+    {
+      "_path": "Lib/site-packages/yapf-0.40.2.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "4cb4790883916336f596367bb3f61dd45df09f41c264d194a727dd5ab2fd7df9",
+      "size_in_bytes": 84
+    },
+    {
+      "_path": "Lib/site-packages/yapf-0.40.2.dist-info/entry_points.txt",
+      "path_type": "hardlink",
+      "sha256": "721694ea3f0967cce51cea5c160a2bc383fb63b2e73143276ce160bf1e698b51",
+      "size_in_bytes": 93
+    },
+    {
+      "_path": "Lib/site-packages/yapf-0.40.2.dist-info/top_level.txt",
+      "path_type": "hardlink",
+      "sha256": "d62077958c3f9cb15fe83fef77c7d377e4d94d17e9473a02e1eb942c20aebba7",
+      "size_in_bytes": 32
+    },
+    {
+      "_path": "Lib/site-packages/yapf/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "a436e403745626ff7afa19b131041adc160873a4a415cb9424c182d5cdc2394e",
+      "size_in_bytes": 13013
+    },
+    {
+      "_path": "Lib/site-packages/yapf/__main__.py",
+      "path_type": "hardlink",
+      "sha256": "8c9e457307bab5b5f1a92b94c513b7b9e978e2d1cfe77bd549ca2396eb347013",
+      "size_in_bytes": 680
+    },
+    {
+      "_path": "Lib/site-packages/yapf/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "19dccac4487ad24dced8524de5f5aa439caa1cc808c41b96d6d04cb5790a0776",
+      "size_in_bytes": 15254
+    },
+    {
+      "_path": "Lib/site-packages/yapf/__pycache__/__main__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "e4a103a90248954781f42aea7ae69c6afd47346a4daa2c1db626eee410f44c5a",
+      "size_in_bytes": 242
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pyparser/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "746451b441bb401e61544886c65e6d0563d8df734eaed3efa1f5636dc41d03bb",
+      "size_in_bytes": 596
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pyparser/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "6b6c5abc31c129818826ecd7c21246b4c80e7f2da4f2d0ca89bbb459ba82ebd0",
+      "size_in_bytes": 140
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pyparser/__pycache__/pyparser.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "a24409ee5cb1a8c760658732b0e38fbe0b6c3f3e1bdfe19e18b0f683117f50f1",
+      "size_in_bytes": 5900
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pyparser/__pycache__/pyparser_utils.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "777ae1dbbd3ca78f0ee989cd141be713474e87e83f8f3e7c101a2e79a1b855fb",
+      "size_in_bytes": 3530
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pyparser/__pycache__/split_penalty_visitor.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "71507c4985b52bba4acc155d13bc9135874da2cfb610f97f837268556d34147a",
+      "size_in_bytes": 32199
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pyparser/pyparser.py",
+      "path_type": "hardlink",
+      "sha256": "384012cca4507d4dc7cd950c4c3192122580c4ddcc0d1d15fcce11c828a7c06e",
+      "size_in_bytes": 5247
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pyparser/pyparser_utils.py",
+      "path_type": "hardlink",
+      "sha256": "592e0d1edab4d47e08e539dff47a3604d67b7f821827a2a558165fbce15af7bf",
+      "size_in_bytes": 3076
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pyparser/split_penalty_visitor.py",
+      "path_type": "hardlink",
+      "sha256": "1030f5e158f4bb60a5c1a8a3ec50f3c1e57b91cbb907b306263bb2e8259d83b6",
+      "size_in_bytes": 29136
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "d0140706ca301b8324a9ee6aa8b0567fd907ebeac35e9220cb2b5786651e5dcc",
+      "size_in_bytes": 596
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "215293a59ce7e2a44addec08eb9a513a279e895b8db7cb5410c7a06e66ebd475",
+      "size_in_bytes": 138
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/__pycache__/blank_line_calculator.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "d22fc9b7ef3eb7cf1291b1c173fb25e70d0a1b134f135b726e767521620d6509",
+      "size_in_bytes": 8694
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/__pycache__/comment_splicer.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "931742412010e8c4774295f860cf1de727bb51729c20273e0416cb8c4f8dd46b",
+      "size_in_bytes": 11662
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/__pycache__/continuation_splicer.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "9f201d2af05775881e7881b877b71e2925211be3f443d2581b83a6bdacf91ce6",
+      "size_in_bytes": 1949
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/__pycache__/pytree_unwrapper.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "a8fd5b93413257e5da6652e4c35281eff281bbebe07c30d164335b5b1a566b07",
+      "size_in_bytes": 20708
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/__pycache__/pytree_utils.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "cb90052aee2c06b5807d0f44d4a51fdb260046fc8c7cbbbb7a88dbd0fde28096",
+      "size_in_bytes": 12099
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/__pycache__/pytree_visitor.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "7cf8cddc9553f06d26284b34f1fcce0d0874e1d01cf80a07bb06dfbe4c2227f8",
+      "size_in_bytes": 5691
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/__pycache__/split_penalty.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "083d02d1fe3828288cd94cd725c955f2bf19478bfd5f5415d98da46b25e82001",
+      "size_in_bytes": 31306
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/__pycache__/subtype_assigner.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "02ff5d254996d0d0cc29d9e7be20bfa82fb2ab37822e776db591b4c9eb342f44",
+      "size_in_bytes": 25962
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/blank_line_calculator.py",
+      "path_type": "hardlink",
+      "sha256": "0f62220e024f4185d80fccfda22bc5ecd59d50c862c69eebfb8e4edb9034d27a",
+      "size_in_bytes": 6289
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/comment_splicer.py",
+      "path_type": "hardlink",
+      "sha256": "931e788601458381d177577f4041e99ecc0a889318e55413f195deb7d68dd11c",
+      "size_in_bytes": 15310
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/continuation_splicer.py",
+      "path_type": "hardlink",
+      "sha256": "9349b9b3b15651512f098b914d298e1770485cb876608606d33214b0dec6b230",
+      "size_in_bytes": 1795
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/pytree_unwrapper.py",
+      "path_type": "hardlink",
+      "sha256": "222de77cc554a8d435e70bf5478d237f20a883541301dd222a6bb27841648586",
+      "size_in_bytes": 15688
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/pytree_utils.py",
+      "path_type": "hardlink",
+      "sha256": "f0b809255123b8bbbddcbe7e7ebcb9672f88671e9dae37e5e6794b65918fe232",
+      "size_in_bytes": 10465
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/pytree_visitor.py",
+      "path_type": "hardlink",
+      "sha256": "0cfd6333ceab17daec0d2e8f5bd4f1ab39bc375f200b592eba228321e4169c45",
+      "size_in_bytes": 4547
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/split_penalty.py",
+      "path_type": "hardlink",
+      "sha256": "7616887993d9754a10ea7512c68cf67dbb5c2b3dca8ff35ab65e5287f4d068c1",
+      "size_in_bytes": 24445
+    },
+    {
+      "_path": "Lib/site-packages/yapf/pytree/subtype_assigner.py",
+      "path_type": "hardlink",
+      "sha256": "422d5b1976ec78f969243c92f1109731c4a7a21fb10ddb07e490ba2e466bad45",
+      "size_in_bytes": 19352
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "69b06a86aa8f3f5d232baa4d084b795435597d82b4bb47d0ba04e9d800b42b89",
+      "size_in_bytes": 596
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "37eb42020ab6c690c1744ad8d8572a871bf2f060e9afa8999b3442070e724b89",
+      "size_in_bytes": 139
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__pycache__/errors.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "11e01028957c63b2e850f0577b40f97062747aa4d2687866b1fca153e7348416",
+      "size_in_bytes": 1776
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__pycache__/file_resources.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "61bad51498f98d3233e7aaadd25b2790dc9c0d4ebb8642232e2a5189f6f29e14",
+      "size_in_bytes": 14179
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__pycache__/format_decision_state.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "a34b01968a3529fdcd363cb7858e60fa83857c12edd6bc7c9784795579d1cd44",
+      "size_in_bytes": 51324
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__pycache__/format_token.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "94e1fca8b037f621a5a74c87958ae54e892cd694731667ce5d1ad40de4009477",
+      "size_in_bytes": 15752
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__pycache__/identify_container.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "9985294a574a261efca620a7a9272506943affc4e7847d940a2b654c48cc4102",
+      "size_in_bytes": 3052
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__pycache__/line_joiner.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "25a65f186df7992bf45f8560efac907b4dc538827e93ee5e7d8cc1e49ad1236e",
+      "size_in_bytes": 3675
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__pycache__/logical_line.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "895a1c49c03408a4ab120b641c0134446de01a334c8ec0616e401f8ccaea930c",
+      "size_in_bytes": 23784
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__pycache__/object_state.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "a69da41f0cdb3f18a15153be83ee145b0147f87dbb8150d892cd20088d022e6c",
+      "size_in_bytes": 12557
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__pycache__/reformatter.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "b1713a67d40871384be1b81d2e897feaa5754ffa65b61b21c67ebaa28d070d53",
+      "size_in_bytes": 30710
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__pycache__/split_penalty.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "bf7c70cd161a55659d4576c6acf19a4930b320fa0692ca1aac920624b21655fc",
+      "size_in_bytes": 546
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__pycache__/style.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "2673df46692917dcb0d2b63e4582be85adb9ddfe38b1dbbe5d08d9d5ed5dbeca",
+      "size_in_bytes": 32894
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__pycache__/subtypes.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "94c08d35216200f127f26bc0c2a52ec7652a55bfec3071fbacd0c5a1810e03f5",
+      "size_in_bytes": 965
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/__pycache__/yapf_api.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "d11036316cc045231d9e58a517d2378d0878b5ed6117eaf748f49399b2b68cd2",
+      "size_in_bytes": 14604
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/errors.py",
+      "path_type": "hardlink",
+      "sha256": "465a116c2c2cd36739b2dc2148fa991824831b5b698b92ca8dbc97e686d0fd76",
+      "size_in_bytes": 1501
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/file_resources.py",
+      "path_type": "hardlink",
+      "sha256": "8a2f221ab6b2101f02e30773a6804c8093dc76e791ee4732847541f50c038337",
+      "size_in_bytes": 9614
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/format_decision_state.py",
+      "path_type": "hardlink",
+      "sha256": "44ad017119be0ad175aa470daf7671f12789bdf192bc9a165e7c00203efb3035",
+      "size_in_bytes": 48530
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/format_token.py",
+      "path_type": "hardlink",
+      "sha256": "b72896b868a7d99cacf2160fdb6c0f34bfe54d9b8ea083a3b9085f48d73e7140",
+      "size_in_bytes": 11203
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/identify_container.py",
+      "path_type": "hardlink",
+      "sha256": "7eabfeac722ea6019c5c03c7d88903858ec3d05da35a7490612c0fb18f155164",
+      "size_in_bytes": 2334
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/line_joiner.py",
+      "path_type": "hardlink",
+      "sha256": "1d1fe35508d1dec5fb9363dc27f77c71215fd9c84a396d7e8167f68b179961c6",
+      "size_in_bytes": 3916
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/logical_line.py",
+      "path_type": "hardlink",
+      "sha256": "063febc60ae8367aff2a5a4749fc2a50fcd31a1d6243394482d95f18371f960b",
+      "size_in_bytes": 25201
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/object_state.py",
+      "path_type": "hardlink",
+      "sha256": "f8938259a077e01062d733ead6b33e221f43951f50aa09b93cbd8fbd79b5dbe1",
+      "size_in_bytes": 7912
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/reformatter.py",
+      "path_type": "hardlink",
+      "sha256": "aa596b0ce4effd784555966edeedbdda54d12032f4ea7ec23c53698f9beb4ef7",
+      "size_in_bytes": 28278
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/split_penalty.py",
+      "path_type": "hardlink",
+      "sha256": "b5b4d0962538f4e20b6cfb8d1a31fdc4226bf2caf6618f529849d0510b9fa35b",
+      "size_in_bytes": 1252
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/style.py",
+      "path_type": "hardlink",
+      "sha256": "54642c518172c903e6a3160b8e32ff220006590387c1162971e85719c615487a",
+      "size_in_bytes": 32064
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/subtypes.py",
+      "path_type": "hardlink",
+      "sha256": "039be1dc303079e12eeecd07965dbb00182d542526a3d43fcaba1077e337f55c",
+      "size_in_bytes": 1144
+    },
+    {
+      "_path": "Lib/site-packages/yapf/yapflib/yapf_api.py",
+      "path_type": "hardlink",
+      "sha256": "1bb551d6eb579516f8dce01b489be17c6ea713d74347e1948e3ee544a8ae41de",
+      "size_in_bytes": 11973
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "a2a99c740cd72e68106b46a1039a6a811f55c02c050e195228a033daafbda575",
+      "size_in_bytes": 143
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/Grammar.txt",
+      "path_type": "hardlink",
+      "sha256": "b88c46ec8add7a6462f783ad4d4695a16da4b58c8acae5c796e58530cabc01fe",
+      "size_in_bytes": 11278
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "5789881b8aeb9c91f5835f5bb7cabe84a0fecd4bb2be2f54c9e6957a78ec799d",
+      "size_in_bytes": 12762
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/PatternGrammar.txt",
+      "path_type": "hardlink",
+      "sha256": "ee5ba5db3b6722a0e2fbe2560ebc1c883e72328ef9c3b4da1c7c5d1cc649bce3",
+      "size_in_bytes": 793
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "aa34a9c67b7c66d29a9b1cf4cc1c658f414809221b7d8858109ef64fdfa2b5a9",
+      "size_in_bytes": 73
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "837ef36fd197b836bb22e21cc7f8a33ba205fe4ed45c3c7bd60f67179ec89216",
+      "size_in_bytes": 234
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/__pycache__/fixer_base.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "cdf48ff9e015b21020b65d51c02da6e4548aa5a513ecc8864824184063fddf70",
+      "size_in_bytes": 7705
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/__pycache__/fixer_util.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "703b82da13166a011cf3aa4bf72f31009bfd5d77fc6b582ea78b43a4775879d4",
+      "size_in_bytes": 21799
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/__pycache__/patcomp.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "96cb12ce719ad2efcfc448bb202e8f114ec494c41088b93abde5f26c3859035e",
+      "size_in_bytes": 10019
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/__pycache__/pygram.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "af60cd771fc0f985a9d3a23e2592f7bf5356f3972c06488cad56a33d64e1b389",
+      "size_in_bytes": 1828
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/__pycache__/pytree.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "c4a8fdff0d2500c83aab850d77b4e8b89b2569aa84664eb0e8086118f810598e",
+      "size_in_bytes": 35134
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/fixer_base.py",
+      "path_type": "hardlink",
+      "sha256": "547d419055015846491d899d3433374ea74139d7ba871d1366b4bc056c4eff50",
+      "size_in_bytes": 6081
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/fixer_util.py",
+      "path_type": "hardlink",
+      "sha256": "d12925a77bd1f5e8ff1c812e04766f671d406976c89e832052424bf768c9572e",
+      "size_in_bytes": 14005
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/patcomp.py",
+      "path_type": "hardlink",
+      "sha256": "c93763a4801ff4c724d362c359bbbc3c88bb603bfbeab0da4c36f415db7fad2a",
+      "size_in_bytes": 6374
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "ed621e4cd288e3c8cb0f627b47cf9e0a230a3daba0c9aa7ecc89b7294f6fd70c",
+      "size_in_bytes": 142
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "b90af5a0be0862d4f3af1fccfec797e6b7226ad7464a3c55ceeac295c845a60b",
+      "size_in_bytes": 194
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/conv.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "4c6a94b591153cbcf37f40900af3d6b8679084f939bf01c79b3d553d6d4ac00d",
+      "size_in_bytes": 11735
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/driver.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "cecfdf93589e823861122e740b3a8fd76ff32f39550faefc6552a60f5925ba52",
+      "size_in_bytes": 13392
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/grammar.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "71ff476809d309182a68cd6de38ced43c077c498584faabdfbc816e2b3f6c4ce",
+      "size_in_bytes": 7072
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/literals.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "e38021bdcb51a13c314ab4bdea6f40bbe664bb3c2e601be4f4f840b491371524",
+      "size_in_bytes": 2603
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/parse.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "5a61162c26f708c79741e3529bf996b28faf4b4e5826b217d10f6825733ac3e0",
+      "size_in_bytes": 16595
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/pgen.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "7a3af27305b44c983628a651f748b22cee7e94e6c39b6deadef01c2c24be516e",
+      "size_in_bytes": 19333
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/token.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "5350fc4ff369454a91bb7dd8314f00f4161e0a4ec16446e70d2289c451b181f5",
+      "size_in_bytes": 2262
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/__pycache__/tokenize.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "199e427b67f63a72ddf6522ddfe14d80ac3276b0941e9fd166bb246ca6d6cadc",
+      "size_in_bytes": 21305
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/conv.py",
+      "path_type": "hardlink",
+      "sha256": "1f016fb3c39278852cbb3c5a767ebc52748b4935ba350e701ce207c8725e29e7",
+      "size_in_bytes": 8672
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/driver.py",
+      "path_type": "hardlink",
+      "sha256": "98e013c155845cae5dd8f713016897ad8542d3ed8a8844422868045a11ce66b7",
+      "size_in_bytes": 8873
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/grammar.py",
+      "path_type": "hardlink",
+      "sha256": "16f6e39eea4f07b03c30a4427437e23dafc51158acc9f90d424f3a4fecd04530",
+      "size_in_bytes": 5387
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/literals.py",
+      "path_type": "hardlink",
+      "sha256": "ccf2af4c4359e2fe54a57b1ff4a0ab930dd869bd394079d45928df206a42b9d2",
+      "size_in_bytes": 1407
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/parse.py",
+      "path_type": "hardlink",
+      "sha256": "3a1163bc654d40fb2017a26457f547c3ffdde7917e5a37121a9f17514284d114",
+      "size_in_bytes": 13020
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/pgen.py",
+      "path_type": "hardlink",
+      "sha256": "a9726222305380e343f90a8ca1b364e674d51c7597e7020b7e32e3c2ae352cb5",
+      "size_in_bytes": 12372
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/token.py",
+      "path_type": "hardlink",
+      "sha256": "9624fd6b02f70882ee5096a89753b8fede06fa275d32c2373baa9104dc68b9e2",
+      "size_in_bytes": 1293
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pgen2/tokenize.py",
+      "path_type": "hardlink",
+      "sha256": "a86bd271d5d42ed480e9c3943ae08d4d0ecf240dfbcd692673a2ccfa8ac0f8a2",
+      "size_in_bytes": 19037
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pygram.py",
+      "path_type": "hardlink",
+      "sha256": "98bd40c13f5e4934a2a252ff36cc16490f4cad374e4e251140be933c7817a8f5",
+      "size_in_bytes": 1200
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/_ylib2to3/pytree.py",
+      "path_type": "hardlink",
+      "sha256": "cacd0109c742cdac87d04e45bc3492265c6a914f32bf540d7fbf447fef9393f9",
+      "size_in_bytes": 25583
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/yapf_diff/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "9e45e856bedccee9f67254082ca11851d954de2fed7448c4bed19ad9aab99a91",
+      "size_in_bytes": 12262
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/yapf_diff/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/yapf_diff/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "c42096bc36ce9fe5b067a66e1023032d066bd877fca03b97598d5a171a708d05",
+      "size_in_bytes": 153
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/yapf_diff/__pycache__/yapf_diff.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "86faf50252211c009804de31ad035b7c13e410c2de5b62e9a6d4715d787879f4",
+      "size_in_bytes": 5626
+    },
+    {
+      "_path": "Lib/site-packages/yapf_third_party/yapf_diff/yapf_diff.py",
+      "path_type": "hardlink",
+      "sha256": "e63bf3168275b7e18f2959df1bfeec53133a3a163287366181dbd969ad69e933",
+      "size_in_bytes": 4657
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "69b06a86aa8f3f5d232baa4d084b795435597d82b4bb47d0ba04e9d800b42b89",
+      "size_in_bytes": 596
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/__init__.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "9b391508a2966fae86d475b276d08d2a193b8504e068d52b9d599c0bfd7f6b03",
+      "size_in_bytes": 136
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/blank_line_calculator_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "d6c250d2fde3f584da648338409e3b0586ddc4a40fc276f9574b9dc6a161c3e0",
+      "size_in_bytes": 11770
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/comment_splicer_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "53f7360f9529b91d17ef4130ae619cf1606dc4e4a35b7fb29b93dd006d0a6b66",
+      "size_in_bytes": 15240
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/file_resources_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "8007303118941a11bd0a31a20c04e78fbb3f4735db42b5ab58ba7eb19f5f819d",
+      "size_in_bytes": 34429
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/format_decision_state_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "a9a49ad52fc12e9286c090328b6967cadb42c7c7dc82fd43c687cf498c57e809",
+      "size_in_bytes": 7135
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/format_token_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "4070026ee4f6f6f34698b77a028dd31a520a4a5df2d03b2daed6cc8b4b601690",
+      "size_in_bytes": 4509
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/line_joiner_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "f8519a6f02a36864b8df38cf5af7988c21aacd7e5f13040669fa0eb5aa14b4a5",
+      "size_in_bytes": 3737
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/logical_line_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "5646d2635cc2fc8c1ce2c515e9129f1be91a6b61ca015c6b8a039f13698b6654",
+      "size_in_bytes": 5468
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/main_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "1f095a427603a017c5abce028e6a4c2031585093f8efd77d2be1d0388a5d190b",
+      "size_in_bytes": 8131
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/pytree_unwrapper_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "84e227af97a57427dbbeb4184df0d46e143c56bc633f0257776038d8c7fcc563",
+      "size_in_bytes": 13073
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/pytree_utils_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "644690c2bfa10b1f68434ab030ff4617bd9a489e7286e9fb50dbf4ba2682e4f1",
+      "size_in_bytes": 14616
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/pytree_visitor_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "19c300457b1fb5fec49b5940b0462ea008fa2ff51cb37a955c8a8835ba1485a1",
+      "size_in_bytes": 5266
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/reformatter_basic_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "76cc198fbbd2d705cea4a288902eb177cff09015063355ea5560c88ee27017f2",
+      "size_in_bytes": 139593
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/reformatter_buganizer_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "78985a136370a7a086dc91c259a27caddbb19e1844ef0e0fa800641ee9cb53c0",
+      "size_in_bytes": 108909
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/reformatter_facebook_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "62e772d3af3e59ec4c077b4e8ad55cb0a2f0a01e25abf6e69da3c0867de17faa",
+      "size_in_bytes": 18352
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/reformatter_pep8_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "533a1098473be619aeda64dbaa484454789de82180128fb5c5e9058c0e0d6cc6",
+      "size_in_bytes": 39202
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/reformatter_python3_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "4f524de9d8fc72bf3a38754d1e57cf847e0ff9316deb365c9422e5ddb7ef06fa",
+      "size_in_bytes": 23676
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/reformatter_style_config_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "f55ea19b28eed9e80fcaf0920e6472e41bfe4eac3324cb73e75ec4bec4a462fd",
+      "size_in_bytes": 9450
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/split_penalty_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "db7bd99aa71143a3a5806a8d141296c846290ce17b68d514676c53dad8d9064e",
+      "size_in_bytes": 7980
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/style_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "aade4f31f07170cbc4aed5683d7f3dc6e7ec2324ac9cc9954670c56683cc8489",
+      "size_in_bytes": 20587
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/subtype_assigner_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "231bb66c4dfc6d53eef67acefcce3ab2ec94ffcab8c5ad4e8c7db6c95c7a7e39",
+      "size_in_bytes": 21639
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/utils.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "7658aeb5b6c80829c85a3d7f6d958eedd5de3a4fd5589b1d48bd96b7262789f8",
+      "size_in_bytes": 1992
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/yapf_test.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "f79525e22c42570c13b1b38257627a5d2f777bb28a3c5db869e970a5e944da78",
+      "size_in_bytes": 76997
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/__pycache__/yapf_test_helper.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "25bf48bd952d8c346e13c093a198db1d0600623afa5d3a2312b21f23c8dfacab",
+      "size_in_bytes": 3806
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/blank_line_calculator_test.py",
+      "path_type": "hardlink",
+      "sha256": "eef830c977db4216310b37b3849b2eca31d8ffebfdb5e7965064955286222a57",
+      "size_in_bytes": 9045
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/comment_splicer_test.py",
+      "path_type": "hardlink",
+      "sha256": "58bb87ab263c118b850fe05688ac86ad90d0c759d1cf66db0ddfa62d208ba3c4",
+      "size_in_bytes": 11081
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/file_resources_test.py",
+      "path_type": "hardlink",
+      "sha256": "3052d0518157d17081da4e2d303b7b50544b63b4b2c5da135db0ddb84e9290a4",
+      "size_in_bytes": 19268
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/format_decision_state_test.py",
+      "path_type": "hardlink",
+      "sha256": "5c0075bf79b4f1fc9d548cc4bcddb7c4dc152418a883c9ad820ecb186d88b989",
+      "size_in_bytes": 4401
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/format_token_test.py",
+      "path_type": "hardlink",
+      "sha256": "24eebe5e76e8aa7b9f00f17496858f6da6153073eaaaae25a2a72ef6686dccc6",
+      "size_in_bytes": 3123
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/line_joiner_test.py",
+      "path_type": "hardlink",
+      "sha256": "1acc2231c55102e6a850dbc4a01cce44c6561ecbd55eee0020ae2b0089c27a04",
+      "size_in_bytes": 2590
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/logical_line_test.py",
+      "path_type": "hardlink",
+      "sha256": "9174a2828a06eb72b41493c1b3f21fc78c4dce54e26d24e553e136625b1465b9",
+      "size_in_bytes": 3228
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/main_test.py",
+      "path_type": "hardlink",
+      "sha256": "b781cc08b91bd32d15c8c4251355b37990d3da21b4d9769dac465e9149e911aa",
+      "size_in_bytes": 3935
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/pytree_unwrapper_test.py",
+      "path_type": "hardlink",
+      "sha256": "1e2a2e2d4401a5ce6536597c30a6788624d3bc4c16c12838bbe9779ab469529d",
+      "size_in_bytes": 9351
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/pytree_utils_test.py",
+      "path_type": "hardlink",
+      "sha256": "be18172da4b272c77bce14434e7b9a22b4829f5f51fb6540091b0a6a303e330a",
+      "size_in_bytes": 7973
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/pytree_visitor_test.py",
+      "path_type": "hardlink",
+      "sha256": "072ea0a47701675970eddc7f656d3c22f9ad8d16cc8f9d382fbb742ad986ebd1",
+      "size_in_bytes": 4083
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/reformatter_basic_test.py",
+      "path_type": "hardlink",
+      "sha256": "5bf85a9afd9077f9f269e83377545832fe48d8097c5a776a06d84bb8deb7687c",
+      "size_in_bytes": 114305
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/reformatter_buganizer_test.py",
+      "path_type": "hardlink",
+      "sha256": "2470f2e840e2c6fa1bb611266b91bb8b9c0d30b04d3138356ee92eb840a5b846",
+      "size_in_bytes": 92309
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/reformatter_facebook_test.py",
+      "path_type": "hardlink",
+      "sha256": "928c533e4b180556e1c31cd6c2fab3d3faaf860dea623bbeb5c7d5690490f435",
+      "size_in_bytes": 15193
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/reformatter_pep8_test.py",
+      "path_type": "hardlink",
+      "sha256": "7b29d565583e448dc37b5e8ec0b81c054e900a6b1986ac6fcf48bcaf4dcc0b21",
+      "size_in_bytes": 32060
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/reformatter_python3_test.py",
+      "path_type": "hardlink",
+      "sha256": "dc393d3e302258fb656a06db217ddb2ef8607e7ae09af71f4a45be05217b6929",
+      "size_in_bytes": 18512
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/reformatter_style_config_test.py",
+      "path_type": "hardlink",
+      "sha256": "764b20e27e8e4adeff2d790dfe34f2786d22fcac8e46e4b62ec680fb93d4964f",
+      "size_in_bytes": 7171
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/split_penalty_test.py",
+      "path_type": "hardlink",
+      "sha256": "ccde0015e5b49c4285e2974e5726f9cbb69cc273625a8254da833d5e10a9d3a7",
+      "size_in_bytes": 7551
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/style_test.py",
+      "path_type": "hardlink",
+      "sha256": "dbb70384bd4ecd74e1a4265860f2e42f7ca2e4896c5de454e6f51c36da0f4d4c",
+      "size_in_bytes": 11563
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/subtype_assigner_test.py",
+      "path_type": "hardlink",
+      "sha256": "727187718c529a9b040f88ccd873d715195cb88ee7e99c6f6b4f6cf9d8c65995",
+      "size_in_bytes": 17149
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/utils.py",
+      "path_type": "hardlink",
+      "sha256": "4ac804c2a32c835cd3d1bb2728f54f21d52e4f381db56599ca878d3a496674a8",
+      "size_in_bytes": 2567
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/yapf_test.py",
+      "path_type": "hardlink",
+      "sha256": "1c9fc6ef06a0a7964799cc47b0542a3236f5db4293cd2ac70ff1b44e6a6ec79d",
+      "size_in_bytes": 63313
+    },
+    {
+      "_path": "Lib/site-packages/yapftests/yapf_test_helper.py",
+      "path_type": "hardlink",
+      "sha256": "f9e65e0bbb7815857b126a2e44df8042fbc29f9fdd21c8ce60e2daf877691546",
+      "size_in_bytes": 2910
+    },
+    {
+      "_path": "Scripts/yapf-diff-script.py",
+      "path_type": "hardlink",
+      "sha256": "24404ac266bc160414ecaf7ae0652d4000147aa29b133dbd4926de90206dedca",
+      "size_in_bytes": 230
+    },
+    {
+      "_path": "Scripts/yapf-diff.exe",
+      "path_type": "hardlink",
+      "sha256": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+      "size_in_bytes": 41984
+    },
+    {
+      "_path": "Scripts/yapf-script.py",
+      "path_type": "hardlink",
+      "sha256": "45448c90a6e63ef15c4ca2be9426a4687048c3557919ecbccf147e36b314e528",
+      "size_in_bytes": 206
+    },
+    {
+      "_path": "Scripts/yapf.exe",
+      "path_type": "hardlink",
+      "sha256": "5ea569f2b5bc9c273351641a1a3c52821ce2a9370bc8202f0247c793ebd8a618",
+      "size_in_bytes": 41984
+    }
+  ],
+  "paths_version": 1
+}

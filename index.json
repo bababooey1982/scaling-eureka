@@ -1,0 +1,18 @@
+{
+  "arch": "x86_64",
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "depends": [
+    "importlib-metadata >=6.6.0",
+    "platformdirs >=3.5.1",
+    "python >=3.12,<3.13.0a0",
+    "tomli >=2.0.1"
+  ],
+  "license": "Apache-2.0 AND PSF-2.0",
+  "license_family": "Apache",
+  "name": "yapf",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1708964871188,
+  "version": "0.40.2"
+}
